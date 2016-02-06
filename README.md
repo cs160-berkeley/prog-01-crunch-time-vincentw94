@@ -8,11 +8,12 @@ CrunchTime assumes a user weight of 150 lbs.
 
 ## Authors
 
-Vincent Wang ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Vincent Wang ([vincent_wang@berkeley.edu](mailto:vincent_wang@berkeley.edu))
 
 ## Demo Video
 
 See [Crunch Time Demo] (https://youtu.be/9zFr6TlYd8s)
+Be sure to read the description!
 
 ## Screenshots
 
@@ -22,5 +23,3 @@ See [Crunch Time Demo] (https://youtu.be/9zFr6TlYd8s)
 <img src="screenshots/CalorieInput.png" alt="Screenshot"/>
 <img src="screenshots/SwapTop.png" alt="Screenshot"/>
 <img src="screenshots/Horizontal.png" alt="Screenshot"/>
-
-## Acknowledgments
