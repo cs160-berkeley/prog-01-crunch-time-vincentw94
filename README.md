@@ -1,22 +1,26 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+CrunchTime is a simple calorie converter for a multitude of exercises.
+It can convert repetitions/minutes of a certain exercise (e.g. 50 pushups) into the number of calories burned, or vice versa.
+It can also convert between exercises to burn an equal number of calories (e.g. 100 pullups = 20 minutes of walking).
+
+CrunchTime assumes a user weight of 150 lbs.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Vincent Wang ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Crunch Time Demo] (https://youtu.be/9zFr6TlYd8s)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Home.png" alt="Screenshot"/>
+<img src="screenshots/Use1.png" alt="Screenshot"/>
+<img src="screenshots/ScrollGrid.png" alt="Screenshot"/>
+<img src="screenshots/CalorieInput.png" alt="Screenshot"/>
+<img src="screenshots/SwapTop.png" alt="Screenshot"/>
+<img src="screenshots/Horizontal.png" alt="Screenshot"/>
 
 ## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
